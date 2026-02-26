@@ -1,0 +1,47 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile.app
+    container_name: test-api-app
+    ports:
+      - "5001:5000"
+    networks:
+      test-net:
+        ipv4_address: 172.19.0.2
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5000/health"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+      start_period: 10s
+    restart: unless-stopped
+
+  test-runner:
+    build:
+      context: .
+      dockerfile: Dockerfile.test
+    container_name: test-runner
+    depends_on:
+      app:
+        condition: service_healthy
+    networks:
+      - test-net
+    volumes:
+      - ./allure-results:/tests/allure-results
+    environment:
+      - API_BASE_URL=http://172.19.0.2:5000/api
+    command: >
+      sh -c "echo 'Waiting for app...' && 
+             sleep 5 && 
+             echo 'Testing connection...' && 
+             curl -f http://172.19.0.2:5000/health && 
+             echo 'App is ready! Running tests...' && 
+             pytest tests/ -v --alluredir=allure-results"
+
+networks:
+  test-net:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.19.0.0/16

@@ -1,0 +1,27 @@
+FROM python:3.11-slim
+
+WORKDIR /tests
+
+# Установка системных зависимостей
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends \
+    curl \
+    netcat-openbsd \
+    && rm -rf /var/lib/apt/lists/*
+
+# Копирование зависимостей тестов
+COPY tests/requirements.test.txt .
+RUN pip install --no-cache-dir -r requirements.test.txt
+
+# Копирование кода тестов
+COPY tests/ .
+COPY wait_for_app.sh .
+
+RUN chmod +x wait_for_app.sh
+
+# Настройка переменных окружения
+ENV PYTHONUNBUFFERED=1
+ENV API_BASE_URL=http://app:5000/api
+
+# Команда по умолчанию с ожиданием
+CMD ["./wait_for_app.sh", "pytest", "tests/", "-v", "--alluredir=allure-results"]

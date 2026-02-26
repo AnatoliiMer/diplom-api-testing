@@ -1,0 +1,10 @@
+pytest==9.0.2
+pytest-xdist==3.8.0
+pytest-timeout==2.4.0
+pytest-rerunfailures==15.0
+requests==2.32.5
+allure-pytest==2.15.3
+python-dotenv==1.2.1
+jsonschema==4.26.0
+deepdiff==8.6.1
+Faker==40.4.0
