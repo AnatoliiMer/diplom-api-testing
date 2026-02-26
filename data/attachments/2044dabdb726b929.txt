@@ -1,0 +1,12 @@
+2026-02-22 18:53:48,780 - conftest - INFO - ▶️ Запуск теста: test_patch_item[update_price_only]
+2026-02-22 18:53:48,781 - conftest - INFO - Creating test item: Programmable homogeneous knowledge user
+2026-02-22 18:53:48,781 - api.base_api - INFO - 🌐 POST http://172.19.0.2:5000/api/items
+2026-02-22 18:53:48,893 - api.base_api - INFO - 📥 Response: 201 (0.108s)
+2026-02-22 18:53:48,901 - conftest - INFO - ✅ Item created with ID: 75
+2026-02-22 18:53:48,903 - api.base_api - INFO - 🌐 PATCH http://172.19.0.2:5000/api/items/75
+2026-02-22 18:53:49,049 - api.base_api - INFO - 📥 Response: 200 (0.143s)
+2026-02-22 18:53:49,065 - conftest - INFO - Deleting test item ID: 75
+2026-02-22 18:53:49,066 - api.base_api - INFO - 🌐 DELETE http://172.19.0.2:5000/api/items/75
+2026-02-22 18:53:49,187 - api.base_api - INFO - 📥 Response: 200 (0.121s)
+2026-02-22 18:53:49,193 - conftest - INFO - Cleanup successful: 200
+2026-02-22 18:53:49,198 - conftest - INFO - ⏹️ Тест завершен: test_patch_item[update_price_only] (длительность: 0.42s)

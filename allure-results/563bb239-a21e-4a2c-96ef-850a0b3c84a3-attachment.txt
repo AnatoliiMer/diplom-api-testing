@@ -1,0 +1,4 @@
+2026-02-22 18:53:52,016 - conftest - INFO - ▶️ Запуск теста: test_api_response_time
+2026-02-22 18:53:52,017 - api.base_api - INFO - 🌐 GET http://172.19.0.2:5000/api/items
+2026-02-22 18:53:52,024 - api.base_api - INFO - 📥 Response: 200 (0.006s)
+2026-02-22 18:53:52,030 - conftest - INFO - ⏹️ Тест завершен: test_api_response_time (длительность: 0.01s)

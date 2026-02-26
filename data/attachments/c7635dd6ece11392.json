@@ -1,0 +1,7 @@
+{
+  "errors": {
+    "price": [
+      "Price must be non-negative"
+    ]
+  }
+}

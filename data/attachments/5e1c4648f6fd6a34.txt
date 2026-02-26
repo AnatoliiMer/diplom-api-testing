@@ -1,0 +1,5 @@
+INFO     conftest:conftest.py:21 🚀 Инициализация API клиента
+INFO     conftest:conftest.py:107 ▶️ Запуск теста: test_get_all_items
+INFO     api.base_api:base_api.py:43 🌐 GET http://172.19.0.2:5000/api/items
+INFO     api.base_api:base_api.py:65 📥 Response: 200 (0.015s)
+INFO     conftest:conftest.py:114 ⏹️ Тест завершен: test_get_all_items (длительность: 0.03s)

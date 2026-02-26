@@ -1,0 +1,13 @@
+2026-02-22 18:53:56,654 - conftest - INFO - ▶️ Запуск теста: test_complete_item_lifecycle
+2026-02-22 18:53:56,656 - api.base_api - INFO - 🌐 POST http://172.19.0.2:5000/api/items
+2026-02-22 18:53:56,775 - api.base_api - INFO - 📥 Response: 201 (0.115s)
+2026-02-22 18:53:56,782 - api.base_api - INFO - 🌐 GET http://172.19.0.2:5000/api/items/75
+2026-02-22 18:53:56,789 - api.base_api - INFO - 📥 Response: 200 (0.006s)
+2026-02-22 18:53:56,797 - api.base_api - INFO - 🌐 PATCH http://172.19.0.2:5000/api/items/75
+2026-02-22 18:53:56,925 - api.base_api - INFO - 📥 Response: 200 (0.125s)
+2026-02-22 18:53:56,931 - api.base_api - INFO - 🌐 DELETE http://172.19.0.2:5000/api/items/75
+2026-02-22 18:53:57,057 - api.base_api - INFO - 📥 Response: 200 (0.125s)
+2026-02-22 18:53:57,064 - api.base_api - INFO - 🌐 GET http://172.19.0.2:5000/api/items/75
+2026-02-22 18:53:57,069 - api.base_api - INFO - 📥 Response: 404 (0.004s)
+2026-02-22 18:53:57,077 - conftest - INFO - ⏹️ Тест завершен: test_complete_item_lifecycle (длительность: 0.42s)
+2026-02-22 18:53:57,080 - conftest - INFO - 🧹 Закрытие API клиента

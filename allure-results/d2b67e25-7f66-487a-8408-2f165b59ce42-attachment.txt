@@ -1,0 +1,4 @@
+2026-02-22 18:53:47,140 - conftest - INFO - ▶️ Запуск теста: test_create_item_parametrized[name_too_long]
+2026-02-22 18:53:47,142 - api.base_api - INFO - 🌐 POST http://172.19.0.2:5000/api/items
+2026-02-22 18:53:47,150 - api.base_api - INFO - 📥 Response: 400 (0.003s)
+2026-02-22 18:53:47,163 - conftest - INFO - ⏹️ Тест завершен: test_create_item_parametrized[name_too_long] (длительность: 0.02s)

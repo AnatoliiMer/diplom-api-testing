@@ -1,0 +1,12 @@
+2026-02-22 18:53:47,813 - conftest - INFO - ▶️ Запуск теста: test_update_item
+2026-02-22 18:53:47,815 - conftest - INFO - Creating test item: Sharable logistical strategy
+2026-02-22 18:53:47,815 - api.base_api - INFO - 🌐 POST http://172.19.0.2:5000/api/items
+2026-02-22 18:53:47,936 - api.base_api - INFO - 📥 Response: 201 (0.116s)
+2026-02-22 18:53:47,943 - conftest - INFO - ✅ Item created with ID: 75
+2026-02-22 18:53:47,944 - api.base_api - INFO - 🌐 PUT http://172.19.0.2:5000/api/items/75
+2026-02-22 18:53:48,140 - api.base_api - INFO - 📥 Response: 200 (0.192s)
+2026-02-22 18:53:48,147 - conftest - INFO - Deleting test item ID: 75
+2026-02-22 18:53:48,147 - api.base_api - INFO - 🌐 DELETE http://172.19.0.2:5000/api/items/75
+2026-02-22 18:53:48,377 - api.base_api - INFO - 📥 Response: 200 (0.228s)
+2026-02-22 18:53:48,383 - conftest - INFO - Cleanup successful: 200
+2026-02-22 18:53:48,390 - conftest - INFO - ⏹️ Тест завершен: test_update_item (длительность: 0.58s)

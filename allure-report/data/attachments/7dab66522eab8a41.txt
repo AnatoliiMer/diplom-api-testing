@@ -1,0 +1,66 @@
+2026-02-22 18:53:52,044 - conftest - INFO - ▶️ Запуск теста: test_items_pagination
+2026-02-22 18:53:52,046 - api.base_api - INFO - 🌐 POST http://172.19.0.2:5000/api/items
+2026-02-22 18:53:52,213 - api.base_api - INFO - 📥 Response: 201 (0.164s)
+2026-02-22 18:53:52,221 - api.base_api - INFO - 🌐 POST http://172.19.0.2:5000/api/items
+2026-02-22 18:53:52,397 - api.base_api - INFO - 📥 Response: 201 (0.172s)
+2026-02-22 18:53:52,405 - api.base_api - INFO - 🌐 POST http://172.19.0.2:5000/api/items
+2026-02-22 18:53:52,662 - api.base_api - INFO - 📥 Response: 201 (0.252s)
+2026-02-22 18:53:52,669 - api.base_api - INFO - 🌐 POST http://172.19.0.2:5000/api/items
+2026-02-22 18:53:52,846 - api.base_api - INFO - 📥 Response: 201 (0.174s)
+2026-02-22 18:53:52,852 - api.base_api - INFO - 🌐 POST http://172.19.0.2:5000/api/items
+2026-02-22 18:53:53,019 - api.base_api - INFO - 📥 Response: 201 (0.163s)
+2026-02-22 18:53:53,026 - api.base_api - INFO - 🌐 POST http://172.19.0.2:5000/api/items
+2026-02-22 18:53:53,277 - api.base_api - INFO - 📥 Response: 201 (0.247s)
+2026-02-22 18:53:53,286 - api.base_api - INFO - 🌐 POST http://172.19.0.2:5000/api/items
+2026-02-22 18:53:53,467 - api.base_api - INFO - 📥 Response: 201 (0.175s)
+2026-02-22 18:53:53,472 - api.base_api - INFO - 🌐 POST http://172.19.0.2:5000/api/items
+2026-02-22 18:53:53,575 - api.base_api - INFO - 📥 Response: 201 (0.100s)
+2026-02-22 18:53:53,582 - api.base_api - INFO - 🌐 POST http://172.19.0.2:5000/api/items
+2026-02-22 18:53:53,724 - api.base_api - INFO - 📥 Response: 201 (0.138s)
+2026-02-22 18:53:53,731 - api.base_api - INFO - 🌐 POST http://172.19.0.2:5000/api/items
+2026-02-22 18:53:53,849 - api.base_api - INFO - 📥 Response: 201 (0.116s)
+2026-02-22 18:53:53,856 - api.base_api - INFO - 🌐 POST http://172.19.0.2:5000/api/items
+2026-02-22 18:53:53,982 - api.base_api - INFO - 📥 Response: 201 (0.122s)
+2026-02-22 18:53:53,989 - api.base_api - INFO - 🌐 POST http://172.19.0.2:5000/api/items
+2026-02-22 18:53:54,115 - api.base_api - INFO - 📥 Response: 201 (0.122s)
+2026-02-22 18:53:54,122 - api.base_api - INFO - 🌐 POST http://172.19.0.2:5000/api/items
+2026-02-22 18:53:54,224 - api.base_api - INFO - 📥 Response: 201 (0.098s)
+2026-02-22 18:53:54,231 - api.base_api - INFO - 🌐 POST http://172.19.0.2:5000/api/items
+2026-02-22 18:53:54,340 - api.base_api - INFO - 📥 Response: 201 (0.105s)
+2026-02-22 18:53:54,347 - api.base_api - INFO - 🌐 POST http://172.19.0.2:5000/api/items
+2026-02-22 18:53:54,464 - api.base_api - INFO - 📥 Response: 201 (0.113s)
+2026-02-22 18:53:54,470 - api.base_api - INFO - 🌐 GET http://172.19.0.2:5000/api/items
+2026-02-22 18:53:54,476 - api.base_api - INFO - 📥 Response: 200 (0.005s)
+2026-02-22 18:53:54,482 - api.base_api - INFO - 🌐 GET http://172.19.0.2:5000/api/items
+2026-02-22 18:53:54,491 - api.base_api - INFO - 📥 Response: 200 (0.007s)
+2026-02-22 18:53:54,498 - api.base_api - INFO - 🌐 DELETE http://172.19.0.2:5000/api/items/75
+2026-02-22 18:53:54,588 - api.base_api - INFO - 📥 Response: 200 (0.089s)
+2026-02-22 18:53:54,594 - api.base_api - INFO - 🌐 DELETE http://172.19.0.2:5000/api/items/76
+2026-02-22 18:53:54,689 - api.base_api - INFO - 📥 Response: 200 (0.094s)
+2026-02-22 18:53:54,696 - api.base_api - INFO - 🌐 DELETE http://172.19.0.2:5000/api/items/77
+2026-02-22 18:53:54,788 - api.base_api - INFO - 📥 Response: 200 (0.091s)
+2026-02-22 18:53:54,795 - api.base_api - INFO - 🌐 DELETE http://172.19.0.2:5000/api/items/78
+2026-02-22 18:53:54,896 - api.base_api - INFO - 📥 Response: 200 (0.100s)
+2026-02-22 18:53:54,904 - api.base_api - INFO - 🌐 DELETE http://172.19.0.2:5000/api/items/79
+2026-02-22 18:53:55,054 - api.base_api - INFO - 📥 Response: 200 (0.149s)
+2026-02-22 18:53:55,062 - api.base_api - INFO - 🌐 DELETE http://172.19.0.2:5000/api/items/80
+2026-02-22 18:53:55,179 - api.base_api - INFO - 📥 Response: 200 (0.116s)
+2026-02-22 18:53:55,186 - api.base_api - INFO - 🌐 DELETE http://172.19.0.2:5000/api/items/81
+2026-02-22 18:53:55,488 - api.base_api - INFO - 📥 Response: 200 (0.300s)
+2026-02-22 18:53:55,495 - api.base_api - INFO - 🌐 DELETE http://172.19.0.2:5000/api/items/82
+2026-02-22 18:53:55,621 - api.base_api - INFO - 📥 Response: 200 (0.125s)
+2026-02-22 18:53:55,628 - api.base_api - INFO - 🌐 DELETE http://172.19.0.2:5000/api/items/83
+2026-02-22 18:53:55,739 - api.base_api - INFO - 📥 Response: 200 (0.110s)
+2026-02-22 18:53:55,745 - api.base_api - INFO - 🌐 DELETE http://172.19.0.2:5000/api/items/84
+2026-02-22 18:53:55,899 - api.base_api - INFO - 📥 Response: 200 (0.153s)
+2026-02-22 18:53:55,906 - api.base_api - INFO - 🌐 DELETE http://172.19.0.2:5000/api/items/85
+2026-02-22 18:53:56,155 - api.base_api - INFO - 📥 Response: 200 (0.248s)
+2026-02-22 18:53:56,162 - api.base_api - INFO - 🌐 DELETE http://172.19.0.2:5000/api/items/86
+2026-02-22 18:53:56,314 - api.base_api - INFO - 📥 Response: 200 (0.150s)
+2026-02-22 18:53:56,320 - api.base_api - INFO - 🌐 DELETE http://172.19.0.2:5000/api/items/87
+2026-02-22 18:53:56,422 - api.base_api - INFO - 📥 Response: 200 (0.101s)
+2026-02-22 18:53:56,429 - api.base_api - INFO - 🌐 DELETE http://172.19.0.2:5000/api/items/88
+2026-02-22 18:53:56,531 - api.base_api - INFO - 📥 Response: 200 (0.100s)
+2026-02-22 18:53:56,538 - api.base_api - INFO - 🌐 DELETE http://172.19.0.2:5000/api/items/89
+2026-02-22 18:53:56,631 - api.base_api - INFO - 📥 Response: 200 (0.092s)
+2026-02-22 18:53:56,640 - conftest - INFO - ⏹️ Тест завершен: test_items_pagination (длительность: 4.60s)

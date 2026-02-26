@@ -1,0 +1,4 @@
+2026-02-22 18:53:47,293 - conftest - INFO - ▶️ Запуск теста: test_create_random_item
+2026-02-22 18:53:47,295 - api.base_api - INFO - 🌐 POST http://172.19.0.2:5000/api/items
+2026-02-22 18:53:47,456 - api.base_api - INFO - 📥 Response: 201 (0.156s)
+2026-02-22 18:53:47,469 - conftest - INFO - ⏹️ Тест завершен: test_create_random_item (длительность: 0.18s)

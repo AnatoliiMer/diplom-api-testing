@@ -1,0 +1,12 @@
+2026-02-22 22:07:46,530 - conftest - INFO - ▶️ Запуск теста: test_patch_item[invalid_update]
+2026-02-22 22:07:46,535 - conftest - INFO - Creating test item: Pre-emptive coherent knowledge user
+2026-02-22 22:07:46,536 - api.base_api - INFO - 🌐 POST http://127.0.0.1:5000/api/items
+2026-02-22 22:07:46,635 - api.base_api - INFO - 📥 Response: 201 (0.097s)
+2026-02-22 22:07:46,638 - conftest - INFO - ✅ Item created with ID: 63
+2026-02-22 22:07:46,641 - api.base_api - INFO - 🌐 PATCH http://127.0.0.1:5000/api/items/63
+2026-02-22 22:07:46,670 - api.base_api - INFO - 📥 Response: 400 (0.026s)
+2026-02-22 22:07:46,678 - conftest - INFO - Deleting test item ID: 63
+2026-02-22 22:07:46,680 - api.base_api - INFO - 🌐 DELETE http://127.0.0.1:5000/api/items/63
+2026-02-22 22:07:46,782 - api.base_api - INFO - 📥 Response: 200 (0.097s)
+2026-02-22 22:07:46,786 - conftest - INFO - Cleanup successful: 200
+2026-02-22 22:07:46,789 - conftest - INFO - ⏹️ Тест завершен: test_patch_item[invalid_update] (длительность: 0.26s)

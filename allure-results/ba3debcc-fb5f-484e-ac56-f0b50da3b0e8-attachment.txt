@@ -1,0 +1,4 @@
+2026-02-22 18:53:46,145 - conftest - INFO - ▶️ Запуск теста: test_create_item_parametrized[valid_complete_item]
+2026-02-22 18:53:46,148 - api.base_api - INFO - 🌐 POST http://172.19.0.2:5000/api/items
+2026-02-22 18:53:46,498 - api.base_api - INFO - 📥 Response: 201 (0.344s)
+2026-02-22 18:53:46,517 - conftest - INFO - ⏹️ Тест завершен: test_create_item_parametrized[valid_complete_item] (длительность: 0.37s)

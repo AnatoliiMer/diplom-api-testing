@@ -1,0 +1,161 @@
+{
+  "items": [
+    {
+      "id": 6,
+      "name": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "price": 100.0,
+      "description": null,
+      "in_stock": true,
+      "created_at": "2026-02-22T15:48:25.149095",
+      "updated_at": "2026-02-22T15:48:25.149095"
+    },
+    {
+      "id": 19,
+      "name": "Pagination Item 10",
+      "price": 110.0,
+      "description": null,
+      "in_stock": true,
+      "created_at": "2026-02-22T15:50:24.268896",
+      "updated_at": "2026-02-22T15:50:24.268896"
+    },
+    {
+      "id": 20,
+      "name": "Pagination Item 11",
+      "price": 111.0,
+      "description": null,
+      "in_stock": true,
+      "created_at": "2026-02-22T15:50:26.517778",
+      "updated_at": "2026-02-22T15:50:26.517778"
+    },
+    {
+      "id": 21,
+      "name": "Pagination Item 12",
+      "price": 112.0,
+      "description": null,
+      "in_stock": true,
+      "created_at": "2026-02-22T15:50:28.781948",
+      "updated_at": "2026-02-22T15:50:28.781948"
+    },
+    {
+      "id": 22,
+      "name": "Pagination Item 13",
+      "price": 113.0,
+      "description": null,
+      "in_stock": true,
+      "created_at": "2026-02-22T15:50:30.921022",
+      "updated_at": "2026-02-22T15:50:30.921022"
+    },
+    {
+      "id": 23,
+      "name": "Pagination Item 14",
+      "price": 114.0,
+      "description": null,
+      "in_stock": true,
+      "created_at": "2026-02-22T15:50:33.213690",
+      "updated_at": "2026-02-22T15:50:33.213690"
+    },
+    {
+      "id": 27,
+      "name": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "price": 100.0,
+      "description": null,
+      "in_stock": true,
+      "created_at": "2026-02-22T15:54:16.680003",
+      "updated_at": "2026-02-22T15:54:16.680003"
+    },
+    {
+      "id": 40,
+      "name": "Pagination Item 10",
+      "price": 110.0,
+      "description": null,
+      "in_stock": true,
+      "created_at": "2026-02-22T15:56:14.827963",
+      "updated_at": "2026-02-22T15:56:14.827963"
+    },
+    {
+      "id": 41,
+      "name": "Pagination Item 11",
+      "price": 111.0,
+      "description": null,
+      "in_stock": true,
+      "created_at": "2026-02-22T15:56:16.979774",
+      "updated_at": "2026-02-22T15:56:16.979774"
+    },
+    {
+      "id": 42,
+      "name": "Pagination Item 12",
+      "price": 112.0,
+      "description": null,
+      "in_stock": true,
+      "created_at": "2026-02-22T15:56:19.191365",
+      "updated_at": "2026-02-22T15:56:19.191365"
+    },
+    {
+      "id": 43,
+      "name": "Pagination Item 13",
+      "price": 113.0,
+      "description": null,
+      "in_stock": true,
+      "created_at": "2026-02-22T15:56:21.321157",
+      "updated_at": "2026-02-22T15:56:21.321157"
+    },
+    {
+      "id": 44,
+      "name": "Pagination Item 14",
+      "price": 114.0,
+      "description": null,
+      "in_stock": true,
+      "created_at": "2026-02-22T15:56:23.469158",
+      "updated_at": "2026-02-22T15:56:23.469158"
+    },
+    {
+      "id": 48,
+      "name": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "price": 100.0,
+      "description": null,
+      "in_stock": true,
+      "created_at": "2026-02-22T16:56:58.161848",
+      "updated_at": "2026-02-22T16:56:58.161848"
+    },
+    {
+      "id": 54,
+      "name": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "price": 100.0,
+      "description": null,
+      "in_stock": true,
+      "created_at": "2026-02-22T16:58:17.732644",
+      "updated_at": "2026-02-22T16:58:17.732644"
+    },
+    {
+      "id": 60,
+      "name": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "price": 100.0,
+      "description": null,
+      "in_stock": true,
+      "created_at": "2026-02-22T17:07:43.688767",
+      "updated_at": "2026-02-22T17:07:43.688767"
+    },
+    {
+      "id": 64,
+      "name": "Price Test Item 50",
+      "price": 50.0,
+      "description": null,
+      "in_stock": true,
+      "created_at": "2026-02-22T17:07:47.239146",
+      "updated_at": "2026-02-22T17:07:47.239146"
+    },
+    {
+      "id": 65,
+      "name": "Price Test Item 100",
+      "price": 100.0,
+      "description": null,
+      "in_stock": true,
+      "created_at": "2026-02-22T17:07:47.350027",
+      "updated_at": "2026-02-22T17:07:47.350027"
+    }
+  ],
+  "total": 17,
+  "page": 1,
+  "per_page": 20,
+  "pages": 1
+}

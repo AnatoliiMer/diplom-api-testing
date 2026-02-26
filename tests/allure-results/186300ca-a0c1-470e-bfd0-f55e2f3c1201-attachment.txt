@@ -1,0 +1,5 @@
+[32mINFO    [0m conftest:conftest.py:21 🚀 Инициализация API клиента
+[32mINFO    [0m conftest:conftest.py:107 ▶️ Запуск теста: test_get_all_items
+[32mINFO    [0m api.base_api:base_api.py:43 🌐 GET http://127.0.0.1:5000/api/items
+[32mINFO    [0m api.base_api:base_api.py:65 📥 Response: 200 (0.034s)
+[32mINFO    [0m conftest:conftest.py:114 ⏹️ Тест завершен: test_get_all_items (длительность: 0.05s)

@@ -1,0 +1,9 @@
+{
+  "id": 61,
+  "name": "Товар",
+  "price": 999999.99,
+  "description": null,
+  "in_stock": true,
+  "created_at": "2026-02-22T17:07:43.861592",
+  "updated_at": "2026-02-22T17:07:43.861592"
+}

@@ -1,0 +1,188 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Ноутбук ASUS",
+      "price": 899.99,
+      "description": "Игровой ноутбук",
+      "in_stock": false,
+      "created_at": "2026-02-22T14:21:12.218942",
+      "updated_at": "2026-02-22T14:26:45.715066"
+    },
+    {
+      "id": 3,
+      "name": "Ноутбук ASUS",
+      "price": 999.99,
+      "description": "Игровой ноутбук",
+      "in_stock": true,
+      "created_at": "2026-02-22T15:48:18.659727",
+      "updated_at": "2026-02-22T15:48:18.659727"
+    },
+    {
+      "id": 6,
+      "name": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "price": 100.0,
+      "description": null,
+      "in_stock": true,
+      "created_at": "2026-02-22T15:48:25.149095",
+      "updated_at": "2026-02-22T15:48:25.149095"
+    },
+    {
+      "id": 7,
+      "name": "Товар",
+      "price": 999999.99,
+      "description": null,
+      "in_stock": true,
+      "created_at": "2026-02-22T15:48:27.308946",
+      "updated_at": "2026-02-22T15:48:27.308946"
+    },
+    {
+      "id": 19,
+      "name": "Pagination Item 10",
+      "price": 110.0,
+      "description": null,
+      "in_stock": true,
+      "created_at": "2026-02-22T15:50:24.268896",
+      "updated_at": "2026-02-22T15:50:24.268896"
+    },
+    {
+      "id": 20,
+      "name": "Pagination Item 11",
+      "price": 111.0,
+      "description": null,
+      "in_stock": true,
+      "created_at": "2026-02-22T15:50:26.517778",
+      "updated_at": "2026-02-22T15:50:26.517778"
+    },
+    {
+      "id": 21,
+      "name": "Pagination Item 12",
+      "price": 112.0,
+      "description": null,
+      "in_stock": true,
+      "created_at": "2026-02-22T15:50:28.781948",
+      "updated_at": "2026-02-22T15:50:28.781948"
+    },
+    {
+      "id": 22,
+      "name": "Pagination Item 13",
+      "price": 113.0,
+      "description": null,
+      "in_stock": true,
+      "created_at": "2026-02-22T15:50:30.921022",
+      "updated_at": "2026-02-22T15:50:30.921022"
+    },
+    {
+      "id": 23,
+      "name": "Pagination Item 14",
+      "price": 114.0,
+      "description": null,
+      "in_stock": true,
+      "created_at": "2026-02-22T15:50:33.213690",
+      "updated_at": "2026-02-22T15:50:33.213690"
+    },
+    {
+      "id": 24,
+      "name": "Ноутбук ASUS",
+      "price": 999.99,
+      "description": "Игровой ноутбук",
+      "in_stock": true,
+      "created_at": "2026-02-22T15:54:10.067909",
+      "updated_at": "2026-02-22T15:54:10.067909"
+    },
+    {
+      "id": 27,
+      "name": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "price": 100.0,
+      "description": null,
+      "in_stock": true,
+      "created_at": "2026-02-22T15:54:16.680003",
+      "updated_at": "2026-02-22T15:54:16.680003"
+    },
+    {
+      "id": 28,
+      "name": "Товар",
+      "price": 999999.99,
+      "description": null,
+      "in_stock": true,
+      "created_at": "2026-02-22T15:54:18.839067",
+      "updated_at": "2026-02-22T15:54:18.839067"
+    },
+    {
+      "id": 40,
+      "name": "Pagination Item 10",
+      "price": 110.0,
+      "description": null,
+      "in_stock": true,
+      "created_at": "2026-02-22T15:56:14.827963",
+      "updated_at": "2026-02-22T15:56:14.827963"
+    },
+    {
+      "id": 41,
+      "name": "Pagination Item 11",
+      "price": 111.0,
+      "description": null,
+      "in_stock": true,
+      "created_at": "2026-02-22T15:56:16.979774",
+      "updated_at": "2026-02-22T15:56:16.979774"
+    },
+    {
+      "id": 42,
+      "name": "Pagination Item 12",
+      "price": 112.0,
+      "description": null,
+      "in_stock": true,
+      "created_at": "2026-02-22T15:56:19.191365",
+      "updated_at": "2026-02-22T15:56:19.191365"
+    },
+    {
+      "id": 43,
+      "name": "Pagination Item 13",
+      "price": 113.0,
+      "description": null,
+      "in_stock": true,
+      "created_at": "2026-02-22T15:56:21.321157",
+      "updated_at": "2026-02-22T15:56:21.321157"
+    },
+    {
+      "id": 44,
+      "name": "Pagination Item 14",
+      "price": 114.0,
+      "description": null,
+      "in_stock": true,
+      "created_at": "2026-02-22T15:56:23.469158",
+      "updated_at": "2026-02-22T15:56:23.469158"
+    },
+    {
+      "id": 45,
+      "name": "Ноутбук ASUS",
+      "price": 999.99,
+      "description": "Игровой ноутбук",
+      "in_stock": true,
+      "created_at": "2026-02-22T16:56:57.742928",
+      "updated_at": "2026-02-22T16:56:57.742928"
+    },
+    {
+      "id": 48,
+      "name": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "price": 100.0,
+      "description": null,
+      "in_stock": true,
+      "created_at": "2026-02-22T16:56:58.161848",
+      "updated_at": "2026-02-22T16:56:58.161848"
+    },
+    {
+      "id": 49,
+      "name": "Товар",
+      "price": 999999.99,
+      "description": null,
+      "in_stock": true,
+      "created_at": "2026-02-22T16:56:58.287859",
+      "updated_at": "2026-02-22T16:56:58.287859"
+    }
+  ],
+  "total": 29,
+  "page": 1,
+  "per_page": 20,
+  "pages": 2
+}

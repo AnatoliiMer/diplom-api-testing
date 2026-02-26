@@ -1,0 +1,12 @@
+2026-02-22 18:53:49,638 - conftest - INFO - ▶️ Запуск теста: test_patch_item[update_multiple_fields]
+2026-02-22 18:53:49,639 - conftest - INFO - Creating test item: Programmable high-level process improvement
+2026-02-22 18:53:49,640 - api.base_api - INFO - 🌐 POST http://172.19.0.2:5000/api/items
+2026-02-22 18:53:49,854 - api.base_api - INFO - 📥 Response: 201 (0.210s)
+2026-02-22 18:53:49,863 - conftest - INFO - ✅ Item created with ID: 75
+2026-02-22 18:53:49,867 - api.base_api - INFO - 🌐 PATCH http://172.19.0.2:5000/api/items/75
+2026-02-22 18:53:49,985 - api.base_api - INFO - 📥 Response: 200 (0.113s)
+2026-02-22 18:53:50,000 - conftest - INFO - Deleting test item ID: 75
+2026-02-22 18:53:50,000 - api.base_api - INFO - 🌐 DELETE http://172.19.0.2:5000/api/items/75
+2026-02-22 18:53:50,142 - api.base_api - INFO - 📥 Response: 200 (0.139s)
+2026-02-22 18:53:50,148 - conftest - INFO - Cleanup successful: 200
+2026-02-22 18:53:50,153 - conftest - INFO - ⏹️ Тест завершен: test_patch_item[update_multiple_fields] (длительность: 0.51s)

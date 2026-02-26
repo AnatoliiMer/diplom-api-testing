@@ -1,0 +1,12 @@
+2026-02-22 22:07:45,753 - conftest - INFO - ▶️ Запуск теста: test_patch_item[update_stock_only]
+2026-02-22 22:07:45,759 - conftest - INFO - Creating test item: Organic bottom-line Local Area Network
+2026-02-22 22:07:45,760 - api.base_api - INFO - 🌐 POST http://127.0.0.1:5000/api/items
+2026-02-22 22:07:45,869 - api.base_api - INFO - 📥 Response: 201 (0.107s)
+2026-02-22 22:07:45,872 - conftest - INFO - ✅ Item created with ID: 63
+2026-02-22 22:07:45,877 - api.base_api - INFO - 🌐 PATCH http://127.0.0.1:5000/api/items/63
+2026-02-22 22:07:46,005 - api.base_api - INFO - 📥 Response: 200 (0.125s)
+2026-02-22 22:07:46,013 - conftest - INFO - Deleting test item ID: 63
+2026-02-22 22:07:46,018 - api.base_api - INFO - 🌐 DELETE http://127.0.0.1:5000/api/items/63
+2026-02-22 22:07:46,146 - api.base_api - INFO - 📥 Response: 200 (0.125s)
+2026-02-22 22:07:46,149 - conftest - INFO - Cleanup successful: 200
+2026-02-22 22:07:46,153 - conftest - INFO - ⏹️ Тест завершен: test_patch_item[update_stock_only] (длительность: 0.39s)

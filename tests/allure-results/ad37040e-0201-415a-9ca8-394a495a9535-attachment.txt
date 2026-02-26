@@ -1,0 +1,12 @@
+2026-02-22 22:07:44,307 - conftest - INFO - ▶️ Запуск теста: test_get_item_by_id
+2026-02-22 22:07:44,310 - conftest - INFO - Creating test item: Multi-tiered even-keeled system engine
+2026-02-22 22:07:44,311 - api.base_api - INFO - 🌐 POST http://127.0.0.1:5000/api/items
+2026-02-22 22:07:44,428 - api.base_api - INFO - 📥 Response: 201 (0.111s)
+2026-02-22 22:07:44,431 - conftest - INFO - ✅ Item created with ID: 63
+2026-02-22 22:07:44,433 - api.base_api - INFO - 🌐 GET http://127.0.0.1:5000/api/items/63
+2026-02-22 22:07:44,461 - api.base_api - INFO - 📥 Response: 200 (0.024s)
+2026-02-22 22:07:44,469 - conftest - INFO - Deleting test item ID: 63
+2026-02-22 22:07:44,472 - api.base_api - INFO - 🌐 DELETE http://127.0.0.1:5000/api/items/63
+2026-02-22 22:07:44,590 - api.base_api - INFO - 📥 Response: 200 (0.112s)
+2026-02-22 22:07:44,593 - conftest - INFO - Cleanup successful: 200
+2026-02-22 22:07:44,597 - conftest - INFO - ⏹️ Тест завершен: test_get_item_by_id (длительность: 0.29s)

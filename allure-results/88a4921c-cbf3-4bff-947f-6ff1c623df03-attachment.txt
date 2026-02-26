@@ -1,0 +1,24 @@
+2026-02-22 18:53:50,837 - conftest - INFO - ▶️ Запуск теста: test_filter_items_by_price
+2026-02-22 18:53:50,839 - api.base_api - INFO - 🌐 POST http://172.19.0.2:5000/api/items
+2026-02-22 18:53:50,957 - api.base_api - INFO - 📥 Response: 201 (0.114s)
+2026-02-22 18:53:50,963 - api.base_api - INFO - 🌐 POST http://172.19.0.2:5000/api/items
+2026-02-22 18:53:51,101 - api.base_api - INFO - 📥 Response: 201 (0.133s)
+2026-02-22 18:53:51,108 - api.base_api - INFO - 🌐 POST http://172.19.0.2:5000/api/items
+2026-02-22 18:53:51,347 - api.base_api - INFO - 📥 Response: 201 (0.235s)
+2026-02-22 18:53:51,355 - api.base_api - INFO - 🌐 POST http://172.19.0.2:5000/api/items
+2026-02-22 18:53:51,471 - api.base_api - INFO - 📥 Response: 201 (0.111s)
+2026-02-22 18:53:51,477 - api.base_api - INFO - 🌐 GET http://172.19.0.2:5000/api/items
+2026-02-22 18:53:51,490 - api.base_api - INFO - 📥 Response: 200 (0.012s)
+2026-02-22 18:53:51,497 - api.base_api - INFO - 🌐 GET http://172.19.0.2:5000/api/items
+2026-02-22 18:53:51,510 - api.base_api - INFO - 📥 Response: 200 (0.011s)
+2026-02-22 18:53:51,517 - api.base_api - INFO - 🌐 GET http://172.19.0.2:5000/api/items
+2026-02-22 18:53:51,527 - api.base_api - INFO - 📥 Response: 200 (0.009s)
+2026-02-22 18:53:51,535 - api.base_api - INFO - 🌐 DELETE http://172.19.0.2:5000/api/items/75
+2026-02-22 18:53:51,650 - api.base_api - INFO - 📥 Response: 200 (0.113s)
+2026-02-22 18:53:51,655 - api.base_api - INFO - 🌐 DELETE http://172.19.0.2:5000/api/items/76
+2026-02-22 18:53:51,758 - api.base_api - INFO - 📥 Response: 200 (0.102s)
+2026-02-22 18:53:51,763 - api.base_api - INFO - 🌐 DELETE http://172.19.0.2:5000/api/items/77
+2026-02-22 18:53:51,866 - api.base_api - INFO - 📥 Response: 200 (0.102s)
+2026-02-22 18:53:51,871 - api.base_api - INFO - 🌐 DELETE http://172.19.0.2:5000/api/items/78
+2026-02-22 18:53:51,998 - api.base_api - INFO - 📥 Response: 200 (0.125s)
+2026-02-22 18:53:52,004 - conftest - INFO - ⏹️ Тест завершен: test_filter_items_by_price (длительность: 1.17s)

@@ -1,0 +1,66 @@
+INFO     conftest:conftest.py:107 ▶️ Запуск теста: test_items_pagination
+INFO     api.base_api:base_api.py:43 🌐 POST http://172.19.0.2:5000/api/items
+INFO     api.base_api:base_api.py:65 📥 Response: 201 (0.164s)
+INFO     api.base_api:base_api.py:43 🌐 POST http://172.19.0.2:5000/api/items
+INFO     api.base_api:base_api.py:65 📥 Response: 201 (0.172s)
+INFO     api.base_api:base_api.py:43 🌐 POST http://172.19.0.2:5000/api/items
+INFO     api.base_api:base_api.py:65 📥 Response: 201 (0.252s)
+INFO     api.base_api:base_api.py:43 🌐 POST http://172.19.0.2:5000/api/items
+INFO     api.base_api:base_api.py:65 📥 Response: 201 (0.174s)
+INFO     api.base_api:base_api.py:43 🌐 POST http://172.19.0.2:5000/api/items
+INFO     api.base_api:base_api.py:65 📥 Response: 201 (0.163s)
+INFO     api.base_api:base_api.py:43 🌐 POST http://172.19.0.2:5000/api/items
+INFO     api.base_api:base_api.py:65 📥 Response: 201 (0.247s)
+INFO     api.base_api:base_api.py:43 🌐 POST http://172.19.0.2:5000/api/items
+INFO     api.base_api:base_api.py:65 📥 Response: 201 (0.175s)
+INFO     api.base_api:base_api.py:43 🌐 POST http://172.19.0.2:5000/api/items
+INFO     api.base_api:base_api.py:65 📥 Response: 201 (0.100s)
+INFO     api.base_api:base_api.py:43 🌐 POST http://172.19.0.2:5000/api/items
+INFO     api.base_api:base_api.py:65 📥 Response: 201 (0.138s)
+INFO     api.base_api:base_api.py:43 🌐 POST http://172.19.0.2:5000/api/items
+INFO     api.base_api:base_api.py:65 📥 Response: 201 (0.116s)
+INFO     api.base_api:base_api.py:43 🌐 POST http://172.19.0.2:5000/api/items
+INFO     api.base_api:base_api.py:65 📥 Response: 201 (0.122s)
+INFO     api.base_api:base_api.py:43 🌐 POST http://172.19.0.2:5000/api/items
+INFO     api.base_api:base_api.py:65 📥 Response: 201 (0.122s)
+INFO     api.base_api:base_api.py:43 🌐 POST http://172.19.0.2:5000/api/items
+INFO     api.base_api:base_api.py:65 📥 Response: 201 (0.098s)
+INFO     api.base_api:base_api.py:43 🌐 POST http://172.19.0.2:5000/api/items
+INFO     api.base_api:base_api.py:65 📥 Response: 201 (0.105s)
+INFO     api.base_api:base_api.py:43 🌐 POST http://172.19.0.2:5000/api/items
+INFO     api.base_api:base_api.py:65 📥 Response: 201 (0.113s)
+INFO     api.base_api:base_api.py:43 🌐 GET http://172.19.0.2:5000/api/items
+INFO     api.base_api:base_api.py:65 📥 Response: 200 (0.005s)
+INFO     api.base_api:base_api.py:43 🌐 GET http://172.19.0.2:5000/api/items
+INFO     api.base_api:base_api.py:65 📥 Response: 200 (0.007s)
+INFO     api.base_api:base_api.py:43 🌐 DELETE http://172.19.0.2:5000/api/items/75
+INFO     api.base_api:base_api.py:65 📥 Response: 200 (0.089s)
+INFO     api.base_api:base_api.py:43 🌐 DELETE http://172.19.0.2:5000/api/items/76
+INFO     api.base_api:base_api.py:65 📥 Response: 200 (0.094s)
+INFO     api.base_api:base_api.py:43 🌐 DELETE http://172.19.0.2:5000/api/items/77
+INFO     api.base_api:base_api.py:65 📥 Response: 200 (0.091s)
+INFO     api.base_api:base_api.py:43 🌐 DELETE http://172.19.0.2:5000/api/items/78
+INFO     api.base_api:base_api.py:65 📥 Response: 200 (0.100s)
+INFO     api.base_api:base_api.py:43 🌐 DELETE http://172.19.0.2:5000/api/items/79
+INFO     api.base_api:base_api.py:65 📥 Response: 200 (0.149s)
+INFO     api.base_api:base_api.py:43 🌐 DELETE http://172.19.0.2:5000/api/items/80
+INFO     api.base_api:base_api.py:65 📥 Response: 200 (0.116s)
+INFO     api.base_api:base_api.py:43 🌐 DELETE http://172.19.0.2:5000/api/items/81
+INFO     api.base_api:base_api.py:65 📥 Response: 200 (0.300s)
+INFO     api.base_api:base_api.py:43 🌐 DELETE http://172.19.0.2:5000/api/items/82
+INFO     api.base_api:base_api.py:65 📥 Response: 200 (0.125s)
+INFO     api.base_api:base_api.py:43 🌐 DELETE http://172.19.0.2:5000/api/items/83
+INFO     api.base_api:base_api.py:65 📥 Response: 200 (0.110s)
+INFO     api.base_api:base_api.py:43 🌐 DELETE http://172.19.0.2:5000/api/items/84
+INFO     api.base_api:base_api.py:65 📥 Response: 200 (0.153s)
+INFO     api.base_api:base_api.py:43 🌐 DELETE http://172.19.0.2:5000/api/items/85
+INFO     api.base_api:base_api.py:65 📥 Response: 200 (0.248s)
+INFO     api.base_api:base_api.py:43 🌐 DELETE http://172.19.0.2:5000/api/items/86
+INFO     api.base_api:base_api.py:65 📥 Response: 200 (0.150s)
+INFO     api.base_api:base_api.py:43 🌐 DELETE http://172.19.0.2:5000/api/items/87
+INFO     api.base_api:base_api.py:65 📥 Response: 200 (0.101s)
+INFO     api.base_api:base_api.py:43 🌐 DELETE http://172.19.0.2:5000/api/items/88
+INFO     api.base_api:base_api.py:65 📥 Response: 200 (0.100s)
+INFO     api.base_api:base_api.py:43 🌐 DELETE http://172.19.0.2:5000/api/items/89
+INFO     api.base_api:base_api.py:65 📥 Response: 200 (0.092s)
+INFO     conftest:conftest.py:114 ⏹️ Тест завершен: test_items_pagination (длительность: 4.60s)

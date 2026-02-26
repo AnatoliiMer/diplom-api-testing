@@ -1,0 +1,4 @@
+INFO     conftest:conftest.py:107 ▶️ Запуск теста: test_create_item_parametrized[empty_name]
+INFO     api.base_api:base_api.py:43 🌐 POST http://172.19.0.2:5000/api/items
+INFO     api.base_api:base_api.py:65 📥 Response: 400 (0.003s)
+INFO     conftest:conftest.py:114 ⏹️ Тест завершен: test_create_item_parametrized[empty_name] (длительность: 0.02s)

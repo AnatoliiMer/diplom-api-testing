@@ -1,0 +1,4 @@
+2026-02-22 18:53:46,529 - conftest - INFO - ▶️ Запуск теста: test_create_item_parametrized[valid_minimal_item]
+2026-02-22 18:53:46,531 - api.base_api - INFO - 🌐 POST http://172.19.0.2:5000/api/items
+2026-02-22 18:53:46,568 - api.base_api - INFO - 📥 Response: 201 (0.032s)
+2026-02-22 18:53:46,589 - conftest - INFO - ⏹️ Тест завершен: test_create_item_parametrized[valid_minimal_item] (длительность: 0.06s)

@@ -1,0 +1,4 @@
+INFO     conftest:conftest.py:107 ▶️ Запуск теста: test_api_response_time
+INFO     api.base_api:base_api.py:43 🌐 GET http://172.19.0.2:5000/api/items
+INFO     api.base_api:base_api.py:65 📥 Response: 200 (0.006s)
+INFO     conftest:conftest.py:114 ⏹️ Тест завершен: test_api_response_time (длительность: 0.01s)

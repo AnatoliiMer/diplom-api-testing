@@ -1,0 +1,12 @@
+INFO     conftest:conftest.py:107 ▶️ Запуск теста: test_patch_item[update_stock_only]
+INFO     conftest:conftest.py:63 Creating test item: Organic bottom-line Local Area Network
+INFO     api.base_api:base_api.py:43 🌐 POST http://172.19.0.2:5000/api/items
+INFO     api.base_api:base_api.py:65 📥 Response: 201 (0.126s)
+INFO     conftest:conftest.py:81 ✅ Item created with ID: 75
+INFO     api.base_api:base_api.py:43 🌐 PATCH http://172.19.0.2:5000/api/items/75
+INFO     api.base_api:base_api.py:65 📥 Response: 200 (0.143s)
+INFO     conftest:conftest.py:86 Deleting test item ID: 75
+INFO     api.base_api:base_api.py:43 🌐 DELETE http://172.19.0.2:5000/api/items/75
+INFO     api.base_api:base_api.py:65 📥 Response: 200 (0.099s)
+INFO     conftest:conftest.py:93 Cleanup successful: 200
+INFO     conftest:conftest.py:114 ⏹️ Тест завершен: test_patch_item[update_stock_only] (длительность: 0.41s)

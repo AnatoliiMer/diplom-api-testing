@@ -1,0 +1,14 @@
+2026-02-22 18:53:50,566 - conftest - INFO - ▶️ Запуск теста: test_delete_item
+2026-02-22 18:53:50,568 - conftest - INFO - Creating test item: Virtual mobile moratorium
+2026-02-22 18:53:50,568 - api.base_api - INFO - 🌐 POST http://172.19.0.2:5000/api/items
+2026-02-22 18:53:50,669 - api.base_api - INFO - 📥 Response: 201 (0.098s)
+2026-02-22 18:53:50,677 - conftest - INFO - ✅ Item created with ID: 75
+2026-02-22 18:53:50,678 - api.base_api - INFO - 🌐 DELETE http://172.19.0.2:5000/api/items/75
+2026-02-22 18:53:50,792 - api.base_api - INFO - 📥 Response: 200 (0.112s)
+2026-02-22 18:53:50,798 - api.base_api - INFO - 🌐 GET http://172.19.0.2:5000/api/items/75
+2026-02-22 18:53:50,803 - api.base_api - INFO - 📥 Response: 404 (0.004s)
+2026-02-22 18:53:50,809 - conftest - INFO - Deleting test item ID: 75
+2026-02-22 18:53:50,810 - api.base_api - INFO - 🌐 DELETE http://172.19.0.2:5000/api/items/75
+2026-02-22 18:53:50,815 - api.base_api - INFO - 📥 Response: 404 (0.004s)
+2026-02-22 18:53:50,821 - conftest - INFO - Cleanup successful: 404
+2026-02-22 18:53:50,826 - conftest - INFO - ⏹️ Тест завершен: test_delete_item (длительность: 0.26s)

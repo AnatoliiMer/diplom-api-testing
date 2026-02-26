@@ -1,0 +1,4 @@
+2026-02-22 18:53:46,948 - conftest - INFO - ▶️ Запуск теста: test_create_item_parametrized[max_price]
+2026-02-22 18:53:46,951 - api.base_api - INFO - 🌐 POST http://172.19.0.2:5000/api/items
+2026-02-22 18:53:47,071 - api.base_api - INFO - 📥 Response: 201 (0.116s)
+2026-02-22 18:53:47,094 - conftest - INFO - ⏹️ Тест завершен: test_create_item_parametrized[max_price] (длительность: 0.15s)

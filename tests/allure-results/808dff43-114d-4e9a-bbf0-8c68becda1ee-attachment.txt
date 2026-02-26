@@ -1,0 +1,4 @@
+[32mINFO    [0m conftest:conftest.py:107 ▶️ Запуск теста: test_create_item_parametrized[null_name]
+[32mINFO    [0m api.base_api:base_api.py:43 🌐 POST http://127.0.0.1:5000/api/items
+[32mINFO    [0m api.base_api:base_api.py:65 📥 Response: 400 (0.022s)
+[32mINFO    [0m conftest:conftest.py:114 ⏹️ Тест завершен: test_create_item_parametrized[null_name] (длительность: 0.04s)

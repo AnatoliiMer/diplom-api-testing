@@ -1,0 +1,13 @@
+INFO     conftest:conftest.py:107 ▶️ Запуск теста: test_complete_item_lifecycle
+INFO     api.base_api:base_api.py:43 🌐 POST http://172.19.0.2:5000/api/items
+INFO     api.base_api:base_api.py:65 📥 Response: 201 (0.115s)
+INFO     api.base_api:base_api.py:43 🌐 GET http://172.19.0.2:5000/api/items/75
+INFO     api.base_api:base_api.py:65 📥 Response: 200 (0.006s)
+INFO     api.base_api:base_api.py:43 🌐 PATCH http://172.19.0.2:5000/api/items/75
+INFO     api.base_api:base_api.py:65 📥 Response: 200 (0.125s)
+INFO     api.base_api:base_api.py:43 🌐 DELETE http://172.19.0.2:5000/api/items/75
+INFO     api.base_api:base_api.py:65 📥 Response: 200 (0.125s)
+INFO     api.base_api:base_api.py:43 🌐 GET http://172.19.0.2:5000/api/items/75
+INFO     api.base_api:base_api.py:65 📥 Response: 404 (0.004s)
+INFO     conftest:conftest.py:114 ⏹️ Тест завершен: test_complete_item_lifecycle (длительность: 0.42s)
+INFO     conftest:conftest.py:33 🧹 Закрытие API клиента

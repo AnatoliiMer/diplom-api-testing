@@ -1,0 +1,4 @@
+2026-02-22 22:07:44,077 - conftest - INFO - ▶️ Запуск теста: test_create_item_parametrized[null_name]
+2026-02-22 22:07:44,086 - api.base_api - INFO - 🌐 POST http://127.0.0.1:5000/api/items
+2026-02-22 22:07:44,112 - api.base_api - INFO - 📥 Response: 400 (0.022s)
+2026-02-22 22:07:44,119 - conftest - INFO - ⏹️ Тест завершен: test_create_item_parametrized[null_name] (длительность: 0.04s)

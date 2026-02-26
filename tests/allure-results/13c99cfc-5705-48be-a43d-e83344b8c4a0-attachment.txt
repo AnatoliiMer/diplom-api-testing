@@ -1,0 +1,66 @@
+[32mINFO    [0m conftest:conftest.py:107 ▶️ Запуск теста: test_items_pagination
+[32mINFO    [0m api.base_api:base_api.py:43 🌐 POST http://127.0.0.1:5000/api/items
+[32mINFO    [0m api.base_api:base_api.py:65 📥 Response: 201 (0.100s)
+[32mINFO    [0m api.base_api:base_api.py:43 🌐 POST http://127.0.0.1:5000/api/items
+[32mINFO    [0m api.base_api:base_api.py:65 📥 Response: 201 (0.105s)
+[32mINFO    [0m api.base_api:base_api.py:43 🌐 POST http://127.0.0.1:5000/api/items
+[32mINFO    [0m api.base_api:base_api.py:65 📥 Response: 201 (0.102s)
+[32mINFO    [0m api.base_api:base_api.py:43 🌐 POST http://127.0.0.1:5000/api/items
+[32mINFO    [0m api.base_api:base_api.py:65 📥 Response: 201 (0.106s)
+[32mINFO    [0m api.base_api:base_api.py:43 🌐 POST http://127.0.0.1:5000/api/items
+[32mINFO    [0m api.base_api:base_api.py:65 📥 Response: 201 (0.080s)
+[32mINFO    [0m api.base_api:base_api.py:43 🌐 POST http://127.0.0.1:5000/api/items
+[32mINFO    [0m api.base_api:base_api.py:65 📥 Response: 201 (0.105s)
+[32mINFO    [0m api.base_api:base_api.py:43 🌐 POST http://127.0.0.1:5000/api/items
+[32mINFO    [0m api.base_api:base_api.py:65 📥 Response: 201 (0.100s)
+[32mINFO    [0m api.base_api:base_api.py:43 🌐 POST http://127.0.0.1:5000/api/items
+[32mINFO    [0m api.base_api:base_api.py:65 📥 Response: 201 (0.108s)
+[32mINFO    [0m api.base_api:base_api.py:43 🌐 POST http://127.0.0.1:5000/api/items
+[32mINFO    [0m api.base_api:base_api.py:65 📥 Response: 201 (0.137s)
+[32mINFO    [0m api.base_api:base_api.py:43 🌐 POST http://127.0.0.1:5000/api/items
+[32mINFO    [0m api.base_api:base_api.py:65 📥 Response: 201 (0.150s)
+[32mINFO    [0m api.base_api:base_api.py:43 🌐 POST http://127.0.0.1:5000/api/items
+[32mINFO    [0m api.base_api:base_api.py:65 📥 Response: 201 (0.100s)
+[32mINFO    [0m api.base_api:base_api.py:43 🌐 POST http://127.0.0.1:5000/api/items
+[32mINFO    [0m api.base_api:base_api.py:65 📥 Response: 201 (0.106s)
+[32mINFO    [0m api.base_api:base_api.py:43 🌐 POST http://127.0.0.1:5000/api/items
+[32mINFO    [0m api.base_api:base_api.py:65 📥 Response: 201 (0.101s)
+[32mINFO    [0m api.base_api:base_api.py:43 🌐 POST http://127.0.0.1:5000/api/items
+[32mINFO    [0m api.base_api:base_api.py:65 📥 Response: 201 (0.096s)
+[32mINFO    [0m api.base_api:base_api.py:43 🌐 POST http://127.0.0.1:5000/api/items
+[32mINFO    [0m api.base_api:base_api.py:65 📥 Response: 201 (0.100s)
+[32mINFO    [0m api.base_api:base_api.py:43 🌐 GET http://127.0.0.1:5000/api/items
+[32mINFO    [0m api.base_api:base_api.py:65 📥 Response: 200 (0.020s)
+[32mINFO    [0m api.base_api:base_api.py:43 🌐 GET http://127.0.0.1:5000/api/items
+[32mINFO    [0m api.base_api:base_api.py:65 📥 Response: 200 (0.025s)
+[32mINFO    [0m api.base_api:base_api.py:43 🌐 DELETE http://127.0.0.1:5000/api/items/63
+[32mINFO    [0m api.base_api:base_api.py:65 📥 Response: 200 (0.102s)
+[32mINFO    [0m api.base_api:base_api.py:43 🌐 DELETE http://127.0.0.1:5000/api/items/64
+[32mINFO    [0m api.base_api:base_api.py:65 📥 Response: 200 (0.124s)
+[32mINFO    [0m api.base_api:base_api.py:43 🌐 DELETE http://127.0.0.1:5000/api/items/65
+[32mINFO    [0m api.base_api:base_api.py:65 📥 Response: 200 (0.097s)
+[32mINFO    [0m api.base_api:base_api.py:43 🌐 DELETE http://127.0.0.1:5000/api/items/66
+[32mINFO    [0m api.base_api:base_api.py:65 📥 Response: 200 (0.102s)
+[32mINFO    [0m api.base_api:base_api.py:43 🌐 DELETE http://127.0.0.1:5000/api/items/67
+[32mINFO    [0m api.base_api:base_api.py:65 📥 Response: 200 (0.103s)
+[32mINFO    [0m api.base_api:base_api.py:43 🌐 DELETE http://127.0.0.1:5000/api/items/68
+[32mINFO    [0m api.base_api:base_api.py:65 📥 Response: 200 (0.126s)
+[32mINFO    [0m api.base_api:base_api.py:43 🌐 DELETE http://127.0.0.1:5000/api/items/69
+[32mINFO    [0m api.base_api:base_api.py:65 📥 Response: 200 (0.096s)
+[32mINFO    [0m api.base_api:base_api.py:43 🌐 DELETE http://127.0.0.1:5000/api/items/70
+[32mINFO    [0m api.base_api:base_api.py:65 📥 Response: 200 (0.124s)
+[32mINFO    [0m api.base_api:base_api.py:43 🌐 DELETE http://127.0.0.1:5000/api/items/71
+[32mINFO    [0m api.base_api:base_api.py:65 📥 Response: 200 (0.108s)
+[32mINFO    [0m api.base_api:base_api.py:43 🌐 DELETE http://127.0.0.1:5000/api/items/72
+[32mINFO    [0m api.base_api:base_api.py:65 📥 Response: 200 (0.090s)
+[32mINFO    [0m api.base_api:base_api.py:43 🌐 DELETE http://127.0.0.1:5000/api/items/73
+[32mINFO    [0m api.base_api:base_api.py:65 📥 Response: 200 (0.108s)
+[32mINFO    [0m api.base_api:base_api.py:43 🌐 DELETE http://127.0.0.1:5000/api/items/74
+[32mINFO    [0m api.base_api:base_api.py:65 📥 Response: 200 (0.123s)
+[32mINFO    [0m api.base_api:base_api.py:43 🌐 DELETE http://127.0.0.1:5000/api/items/75
+[32mINFO    [0m api.base_api:base_api.py:65 📥 Response: 200 (0.119s)
+[32mINFO    [0m api.base_api:base_api.py:43 🌐 DELETE http://127.0.0.1:5000/api/items/76
+[32mINFO    [0m api.base_api:base_api.py:65 📥 Response: 200 (0.124s)
+[32mINFO    [0m api.base_api:base_api.py:43 🌐 DELETE http://127.0.0.1:5000/api/items/77
+[32mINFO    [0m api.base_api:base_api.py:65 📥 Response: 200 (0.103s)
+[32mINFO    [0m conftest:conftest.py:114 ⏹️ Тест завершен: test_items_pagination (длительность: 3.52s)
