@@ -1,5 +1,11 @@
 # Дипломный проект: Автоматизация тестирования REST API в Docker-контейнерах
 
+[![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org/)
+[![Pytest](https://img.shields.io/badge/Pytest-9.0.2-orange)](https://docs.pytest.org/)
+[![Flask](https://img.shields.io/badge/Flask-3.1.3-green)](https://flask.palletsprojects.com/)
+[![Docker](https://img.shields.io/badge/Docker-24.0-blue)](https://www.docker.com/)
+[![Allure](https://img.shields.io/badge/Allure-2.32-red)](https://qameta.io/allure-report/)
+
 ## 📋 Описание проекта
 
 Разработка системы автоматизированного тестирования REST API с использованием Docker-контейнеров. Проект включает тестируемое приложение на Flask и тестовый фреймворк на pytest с генерацией отчетов Allure.
