@@ -84,7 +84,8 @@ docker-compose up --build test-runner
 allure generate allure-results -o allure-report
 allure open allure-report
 
-## 📊 Результаты тестирования
+## 📊 Результаты тестирова
+[![Allure Report](https://img.shields.io/badge/Allure-Report-blue)](https://AnatoliiMer.github.io/diplom-api-testing/)
 
 - ✅ **25 тестов** - все успешно пройдены
 
